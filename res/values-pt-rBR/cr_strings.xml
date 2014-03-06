@@ -318,4 +318,11 @@
     <string name="noti_reminder_ringtone">Toque de notificação</string>
     <string name="noti_reminder_summary">Entre com uma notificação e ajuste um lembrete para a mesma</string>
 
+    <!-- QuickSettings: Smart Pulldown -->
+    <string name="smart_pulldown_title">Puxar para baixo inteligente</string>
+    <string name="smart_pulldown_summary">Abre as configurações rápidas quando não há %1$s notificações presentes</string>
+    <string name="smart_pulldown_off">Desligado</string>
+    <string name="smart_pulldown_dismissable">Dispensável</string>
+    <string name="smart_pulldown_persistent">Persistente</string>
+
 </resources>
