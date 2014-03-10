@@ -342,4 +342,10 @@
     <string name="smart_cover_wake_title">Acordar usando capa inteligente</string>
     <string name="smart_cover_wake_summary">Acordar o aparelho quando abrir a capa inteligente (smart cover)</string>
 
+    <!-- Ability to disable hardware keys via nav bar settings -->
+    <string name="hw_keys_title">Botões físicos</string>
+    <string name="key_menu_enabled">Botão menu habilitado</string>
+    <string name="key_back_enabled">Botão voltar habilitado</string>
+    <string name="key_home_enabled">Botão home habilitado</string>
+
 </resources>
