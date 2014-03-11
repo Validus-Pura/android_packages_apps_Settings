@@ -4,7 +4,7 @@
 
     <!-- About phone screen, crDroid version -->
     <string name="crdroid_version_title">crDroid versão simples</string>
-    <string name="crdroid_version_default">Build 9</string>
+    <string name="crdroid_version_default">Build 22</string>
 
     <!-- General strings -->
     <string name="default_string">Normal</string>
@@ -347,5 +347,17 @@
     <string name="key_menu_enabled">Botão menu habilitado</string>
     <string name="key_back_enabled">Botão voltar habilitado</string>
     <string name="key_home_enabled">Botão home habilitado</string>
+
+    <!-- Keyboard and Input ASS methods  -->
+    <string name="title_keyboard_input">Opções avançadas</string>
+    <string name="disable_fullscreen_keyboard_title">Desabilite teclado em tela cheia</string>
+    <string name="disable_fullscreen_keyboard_summary">Teclado em modo paisagem nunca irá ocupar a tela inteira</string>
+    <string name="keyboard_rotation_toggle_title">Auto rotação do teclado</string>
+    <string name="keyboard_rotation_toggle_summary">Forçar auto rotação quando o teclado é mostrado</string>
+    <string name="keyboard_rotation_timeout_title">Tempo de auto rotação</string>
+    <string name="keyboard_rotation_timeout_summary">Desabilite o sensor de auto rotaçãor <xliff:g id="rotate_timeout">%1$s</xliff:g> segundos após o tecaldo ser ocultado</string>
+    <string name="keyboard_rotation_dialog">OBS: Essa função força o ligamento da auto rotação temporariamente enquanto o teclado está visível. Isso não têm nenhum efeito se a função de auto rotação já estiver habilitada.</string>
+    <string name="show_enter_key_title">Mostrar a tecla ENTER</string>
+    <string name="show_enter_key_summary">Forçar o teclado à mostrar a tecla ENTER ao invés da tecla emotions</string>
 
 </resources>
