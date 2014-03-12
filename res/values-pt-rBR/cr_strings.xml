@@ -360,4 +360,23 @@
     <string name="show_enter_key_title">Mostrar a tecla ENTER</string>
     <string name="show_enter_key_summary">Forçar o teclado à mostrar a tecla ENTER ao invés da tecla emotions</string>
 
+    <!-- Telo Radio -->
+    <string name="telo_radio_settings_title">Gerenciador de conexção</string>
+    <string name="telo_radio_options_category">Configuração de tela ligada</string>
+    <string name="telo_radio_lte_title">LTE</string>
+    <string name="telo_radio_lte_summary">Selecione essa opção se você utiliza LTE (4G).</string>
+    <string name="telo_radio_2g_wifi_title">2G no Wi-Fi</string>
+    <string name="telo_radio_2g_wifi_title_summary">Quando o Wi-Fi é conectado o modo de rede é alterado para 2G.</string>
+    <string name="telo_radio_2g_screenoff_category">Configuração de tela desligada</string>
+    <string name="telo_radio_2g_screenoff_title">2G com a  tela ligada</string>
+    <string name="telo_radio_2g_screenoff_summary">O aparelho irá mudar para 2G quando aa tela desligar.</string>
+    <string name="telo_radio_2g_screenoff_timeout_title">Tempo para mudar para 2G</string>
+    <string name="telo_radio_2g_3min">3 minutos</string>
+    <string name="telo_radio_2g_5min">5 minutos</string>
+    <string name="telo_radio_2g_10min">10 minutos</string>
+    <string name="telo_radio_2g_15min">15 minutos</string>
+    <string name="telo_radio_2g_20min">20 minutos</string>
+    <string name="telo_radio_go_3g_unlock_title">Desbloqueio 3G</string>
+    <string name="telo_radio_go_3g_unlock_summary">Quando o aparelho é desbloqueado o mode de rede é alterado para 3G novamente.</string>
+
 </resources>
