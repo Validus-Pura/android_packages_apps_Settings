@@ -49,8 +49,8 @@
     <string name="app_halo_label_white">Lista branca pelo HALO</string>
 
     <!-- QS and navring Power menu -->
-    <string name="title_tile_power">Power Menu</string> 
-    <string name="navring_action_power_menu">Power menu</string>       
+    <string name="title_tile_power">Menu de energia</string> 
+    <string name="navring_action_power_menu">Menu de energia</string>       
 
     <!-- Navigation bar -->
     <string name="navbar_enable_bar">Habilitar a barra de navegação</string>
@@ -320,7 +320,7 @@
     <string name="noti_reminder_interval">Intervalo do giro</string>
     <string name="noti_reminder_interval_1s">1 segundo</string>
     <string name="noti_reminder_interval_1dot5s">1,5 segundos</string>
-    <string name="noti_reminder_interval_2s">2 secundos</string>
+    <string name="noti_reminder_interval_2s">2 segundos</string>
     <string name="noti_reminder_interval_2dot5s">2,5 segundos</string>
     <string name="noti_reminder_interval_3s">3 segundos</string>
     <string name="noti_reminder_interval_3dot5s">3,5 segundos</string>
@@ -335,7 +335,7 @@
 
     <!-- Custom Recent Settings -->
     <string name="custom_recent_title">Mudar entre estilos de recentes</string>
-    <string name="custom_recent_summary">Marque para o estilo Slim Roms ou desmarque para o estilo normal. MARCANDO OU DESMARCANDO ESSA OPÇÃO IRÁ REINICIAR O SEU SYSTEMUI</string>
+    <string name="custom_recent_summary">Marque para o estilo Slim Roms ou desmarque para o estilo normal. MARCANDO OU DESMARCANDO ESSA OPÇÃO IRÁ REINICIAR O SYSTEMUI</string>
 
     <!-- Lockscreen Lid Settings -->
     <string name="smart_cover_category_title">Capa inteligente</string>
@@ -353,9 +353,9 @@
     <string name="disable_fullscreen_keyboard_title">Desabilite teclado em tela cheia</string>
     <string name="disable_fullscreen_keyboard_summary">Teclado em modo paisagem nunca irá ocupar a tela inteira</string>
     <string name="keyboard_rotation_toggle_title">Auto rotação do teclado</string>
-    <string name="keyboard_rotation_toggle_summary">Forçar auto rotação quando o teclado é mostrado</string>
+    <string name="keyboard_rotation_toggle_summary">Força auto rotação quando o teclado é mostrado</string>
     <string name="keyboard_rotation_timeout_title">Tempo de auto rotação</string>
-    <string name="keyboard_rotation_timeout_summary">Desabilite o sensor de auto rotaçãor <xliff:g id="rotate_timeout">%1$s</xliff:g> segundos após o tecaldo ser ocultado</string>
+    <string name="keyboard_rotation_timeout_summary">Desabilita o sensor de auto rotaçãor <xliff:g id="rotate_timeout">%1$s</xliff:g> segundos após o tecaldo ser ocultado</string>
     <string name="keyboard_rotation_dialog">OBS: Essa função força o ligamento da auto rotação temporariamente enquanto o teclado está visível. Isso não têm nenhum efeito se a função de auto rotação já estiver habilitada.</string>
     <string name="show_enter_key_title">Mostrar a tecla ENTER</string>
     <string name="show_enter_key_summary">Forçar o teclado à mostrar a tecla ENTER ao invés da tecla emotions</string>
@@ -389,10 +389,33 @@
     <string name="volume_steps_5">5</string>
     <string name="volume_steps_alarm_title">Alarme</string>
     <string name="volume_steps_dtmf_title">DTMF</string>
-    <string name="volume_steps_music_title">Musica</string>
+    <string name="volume_steps_music_title">Música</string>
     <string name="volume_steps_notification_title">Notificação</string>
     <string name="volume_steps_ring_title">Toque</string>
     <string name="volume_steps_system_title">Sistema</string>
     <string name="volume_steps_voice_call_title">Chamada de voz</string>
+
+    <!-- NavBar long press actions -->
+    <string name="navbar_long_press_title">Açoes de pressionamento longo</string>
+    <string name="recents_long_press_title">Pressionamento longo do botão recente</string>
+    <string name="recents_long_press_none">Nada</string>
+    <string name="recents_long_press_last_app">Último aplicativo</string>
+    <string name="recents_long_press_screenshot">Foto da tela</string>
+    <string name="recents_long_press_kill_app">Matar aplicativo</string>
+    <string name="recents_long_press_notif_panel">Painel de notificações</string>
+    <string name="recents_long_press_qs_panel">Painel de configurações rápidas</string>
+    <string name="recents_long_press_power_menu">Menu de energia</string>
+
+    <!-- Recent panel -->
+    <string name="recent_panel_category">Painel de aplicativos recentes</string>
+    <string name="recent_panel_scale_title">Tamanho</string>
+    <string name="recent_panel_scale_summary">Tamanho do painel em porcentagem.</string>
+    <string name="recent_panel_100">100% (normal)</string>
+    <string name="recent_panel_85">85%</string>
+    <string name="recent_panel_70">70%</string>
+
+    <!-- ATTENTION: RTL languages need to replace left with right -->
+    <string name="recent_panel_lefty_mode_title">Mostar no lado esquerdo</string>
+    <string name="recent_panel_lefty_mode_summary">Mostar o painle de recentes no lado esquerdo.</string>
 
 </resources>
