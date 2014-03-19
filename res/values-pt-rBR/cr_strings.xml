@@ -4,11 +4,11 @@
 
     <!-- About phone screen, crDroid version -->
     <string name="crdroid_version_title">crDroid versão simples</string>
-    <string name="crdroid_version_default">Build 23.1</string>
+    <string name="crdroid_version_default">Build 14</string>
 
     <!-- General strings -->
     <string name="default_string">Normal</string>
-    <string name="recents_panel_settings_title" >Ajustes do painel de recentes</string>
+    <string name="recent_panel_settings_title" >Ajustes do painel de recentes</string>
     <string name="reset">Restaurar</string>
     <string name="advanced">Acançado</string>
 
@@ -115,8 +115,8 @@
     <string name="quick_tiles_alpha_summary">O estilo do fundo dos ribbons vai seguir essas mudanças</string>
     <string name="qs_style_reset_message">Restaurar cores da barra dos tiles para o estado normal?</string>
 
-    <!--  Recents clear all -->
-    <string name="recents_clear_all_button">Botão de limpeza do painel de recentes</string>
+    <!--  Recent clear all -->
+    <string name="recent_clear_all_button">Botão de limpeza do painel de recentes</string>
     <string name="show_recent_clear_all_button_title">Mostrar o botão de limpeza</string>
     <string name="show_recent_clear_all_button_summary">Marque para mostrar ou desmarque para retirar o botão de limpeza do painel dos recentes</string>
     <string name="recent_clear_all_button_location_title">Posição do botão</string>
@@ -136,7 +136,7 @@
     <string name="set">Aplicar</string>
     <string name="color_default">Restaurar</string>
 
-    <!-- Recents Ram Bar -->
+    <!-- Recent Ram Bar -->
     <string name="ram_bar">Barra de memória RAM</string>
     <string name="ram_bar_note_title">Note</string>
     <string name="ram_bar_note_summary">Essa bara mostra a quantidade atual de memória (RAM) utilizada. Atente: manter os aplicativos em cache faz os mesmos abrirem com maior rapidez</string>
@@ -397,14 +397,14 @@
 
     <!-- NavBar long press actions -->
     <string name="navbar_long_press_title">Açoes de pressionamento longo</string>
-    <string name="recents_long_press_title">Pressionamento longo do botão recente</string>
-    <string name="recents_long_press_none">Nada</string>
-    <string name="recents_long_press_last_app">Último aplicativo</string>
-    <string name="recents_long_press_screenshot">Foto da tela</string>
-    <string name="recents_long_press_kill_app">Matar aplicativo</string>
-    <string name="recents_long_press_notif_panel">Painel de notificações</string>
-    <string name="recents_long_press_qs_panel">Painel de configurações rápidas</string>
-    <string name="recents_long_press_power_menu">Menu de energia</string>
+    <string name="recent_long_press_title">Pressionamento longo do botão recente</string>
+    <string name="recent_long_press_none">Nada</string>
+    <string name="recent_long_press_last_app">Último aplicativo</string>
+    <string name="recent_long_press_screenshot">Foto da tela</string>
+    <string name="recent_long_press_kill_app">Matar aplicativo</string>
+    <string name="recent_long_press_notif_panel">Painel de notificações</string>
+    <string name="recent_long_press_qs_panel">Painel de configurações rápidas</string>
+    <string name="recent_long_press_power_menu">Menu de energia</string>
 
     <!-- Recent panel -->
     <string name="recent_panel_category">Painel de aplicativos recentes</string>
