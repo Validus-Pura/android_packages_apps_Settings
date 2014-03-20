@@ -418,4 +418,7 @@
     <string name="recent_panel_lefty_mode_title">Mostar no lado esquerdo</string>
     <string name="recent_panel_lefty_mode_summary">Mostar o painle de recentes no lado esquerdo.</string>
 
+    <!-- Brightness Slider -->
+    <string name="notification_drawer_brightness_slider_title">Barra de ajuste de brilho</string>
+
 </resources>
